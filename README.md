@@ -15,13 +15,10 @@
 # 💻 Tech Stack
 
 <table>
+
 <tr>
 <td align="center">
 <img src="https://cdn.simpleicons.org/react/61DAFB" width="40"/><br>React
-</td>
-
-<td align="center">
-<img src="https://cdn.simpleicons.org/reactrouter/CA4245" width="40"/><br>React Router
 </td>
 
 <td align="center">
@@ -35,13 +32,13 @@
 <td align="center">
 <img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="40"/><br>Java
 </td>
-</tr>
 
-<tr>
 <td align="center">
 <img src="https://cdn.simpleicons.org/github/ffffff" width="40"/><br>GitHub
 </td>
+</tr>
 
+<tr>
 <td align="center">
 <img src="https://cdn.simpleicons.org/git/F05032" width="40"/><br>Git
 </td>
@@ -57,21 +54,13 @@
 <td align="center">
 <img src="https://cdn.simpleicons.org/html5/E34F26" width="40"/><br>HTML5
 </td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://cdn.simpleicons.org/vite/646CFF" width="40"/><br>Vite
-</td>
-
-<td align="center">
-<img src="https://cdn.simpleicons.org/nodemon/76D04B" width="40"/><br>Nodemon
-</td>
 
 <td align="center">
 <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40"/><br>TailwindCSS
 </td>
+</tr>
 
+<tr>
 <td align="center">
 <img src="https://cdn.simpleicons.org/typescript/3178C6" width="40"/><br>TypeScript
 </td>
@@ -79,12 +68,11 @@
 <td align="center">
 <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40"/><br>PostgreSQL
 </td>
-</tr>
 
-<tr>
 <td align="center">
 <img src="https://cdn.simpleicons.org/docker/2496ED" width="40"/><br>Docker
 </td>
+
 </tr>
 
 </table>
@@ -92,17 +80,5 @@
 ## 📊 GitHub Status
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Adityasharma0709&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityasharma0709&theme=tokyonight&hide_border=true" height="170"/>
-
 </p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityasharma0709&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
