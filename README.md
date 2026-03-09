@@ -12,8 +12,82 @@
   <img src="https://cdn.simpleicons.org/gmail/D14836" width="32" />
 </a>
 
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+# 💻 Tech Stack
+
+<table>
+<tr>
+<td align="center">
+<img src="https://cdn.simpleicons.org/react/61DAFB" width="40"/><br>React
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/reactrouter/CA4245" width="40"/><br>React Router
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/express/ffffff" width="40"/><br>Express
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40"/><br>JavaScript
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="40"/><br>Java
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://cdn.simpleicons.org/github/ffffff" width="40"/><br>GitHub
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/git/F05032" width="40"/><br>Git
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="40"/><br>Next.js
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/mongodb/47A248" width="40"/><br>MongoDB
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/html5/E34F26" width="40"/><br>HTML5
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://cdn.simpleicons.org/vite/646CFF" width="40"/><br>Vite
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/nodemon/76D04B" width="40"/><br>Nodemon
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40"/><br>TailwindCSS
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/typescript/3178C6" width="40"/><br>TypeScript
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40"/><br>PostgreSQL
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://cdn.simpleicons.org/docker/2496ED" width="40"/><br>Docker
+</td>
+</tr>
+
+</table>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Adityasharma0709&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Adityasharma0709&theme=dark&hide_border=false)<br/>
