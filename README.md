@@ -1,19 +1,18 @@
 
-## <img src="https://cdn.simpleicons.org/linktree" width="28"/> Socials
+## <img src="https://cdn.simpleicons.org/linktree" width="50"/> Socials
 <a href="https://instagram.com/__adi__here">
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="32" />
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" />
 </a>
 &nbsp;&nbsp;
 <a href="https://linkedin.com/in/aditya-sharma-824267328">
-  <img src="https://github.com/user-attachments/assets/62bd28f8-43ca-4507-b3b1-ffb4233e73c1"  width="32" />
+  <img src="https://github.com/user-attachments/assets/62bd28f8-43ca-4507-b3b1-ffb4233e73c1"  width="40" />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:adityashar.07092002@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/D14836" width="32" />
+  <img src="https://cdn.simpleicons.org/gmail/D14836" width="40" />
 </a>
 
-# 💻 Tech Stack
-
+# <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/bc5477fe-43fd-4698-803f-e653a1c3e457" /> Tech Stack
 <table>
 
 <tr>
@@ -77,7 +76,7 @@
 
 </table>
 
-## 📊 GitHub Status
+## <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/736d807b-6a93-4d40-bfbe-dfce4a580191" /> GitHub Status
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityasharma0709&theme=tokyonight&hide_border=true" height="170"/>
