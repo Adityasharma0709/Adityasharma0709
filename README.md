@@ -11,6 +11,12 @@
 <a href="mailto:adityashar.07092002@gmail.com">
   <img src="https://cdn.simpleicons.org/gmail/D14836" width="40" />
 </a>
+&nbsp;&nbsp;
+<a href="https://x.com/enddevleopard">
+  <img width="40" alt="image" src="https://github.com/user-attachments/assets/01fb865c-7081-43b8-8abe-84b73ed2d6f5" />
+</a>
+<br/>
+
 
 # <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/bc5477fe-43fd-4698-803f-e653a1c3e457" /> Tech Stack
 <table>
