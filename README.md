@@ -1,5 +1,7 @@
 
 ## <img src="https://cdn.simpleicons.org/linktree" width="50"/> Socials
+<br/>
+
 <a href="https://instagram.com/__adi__here">
   <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" />
 </a>
@@ -16,7 +18,7 @@
   <img width="40" alt="image" src="https://github.com/user-attachments/assets/01fb865c-7081-43b8-8abe-84b73ed2d6f5" />
 </a>
 <br/>
-
+<br/>
 
 # <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/bc5477fe-43fd-4698-803f-e653a1c3e457" /> Tech Stack
 <table>
@@ -81,9 +83,10 @@
 </tr>
 
 </table>
+<br/>
 
-## <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/736d807b-6a93-4d40-bfbe-dfce4a580191" /> GitHub Status
+## <img width="50" alt="image" src="https://github.com/user-attachments/assets/8634c2dc-301b-47db-a1e2-30042f876f11" />GitHub Status
 
-<p align="center">
+<p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityasharma0709&theme=tokyonight&hide_border=true" height="170"/>
 </p>
